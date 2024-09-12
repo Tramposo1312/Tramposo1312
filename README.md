@@ -1,6 +1,4 @@
 
-## 👋 Hey there, I'm Tramposo
-
 ### 🔮 Quick Insights
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tramposo1312.Tramposo1312)
 [![GitHub followers](https://img.shields.io/github/followers/Tramposo1312?label=Follow&style=social)](https://github.com/Tramposo1312)
@@ -16,7 +14,7 @@
   </tr>
 </table>
 
-### 🎮 Featured Game: Lost Boys
+### Featured Project
 <div align="center">
   <a href="https://tramposo.itch.io/lost-boys">
     <img src="https://img.itch.zone/aW1hZ2UvMjg2NTk5Ni8xNzE1MjM0Mi5wbmc=/347x500/ltJMLf.png" alt="Lost Boys Game" width="200">
@@ -25,7 +23,7 @@
   <p>Check out my game <a href="https://tramposo.itch.io/lost-boys">Lost Boys on itch.io</a>!</p>
 </div>
 
-### 💡 Skills & Tools
+### Skills & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -41,14 +39,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
 
-### 🌱 Current Learning Journey
-I'm currently exploring the realms of:
-- Software Development
-- Game Development
-- AI Development
-- Sustainable Coding Practices
-
-### 🤝 Let's Connect
+### Contact
 <div align="center">
   <a href="https://github.com/Tramposo1312"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://tramposo.itch.io"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" /></a>
