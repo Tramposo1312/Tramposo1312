@@ -13,17 +13,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tramposo1312&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tramposo1312&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
 ### Featured Project
 <div align="center">
   <a href="https://tramposo.itch.io/lost-boys">
