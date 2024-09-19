@@ -5,7 +5,7 @@
     <img src="https://img.itch.zone/aW1hZ2UvMjg2NTk5Ni8xNzE1MjM0Mi5wbmc=/347x500/ltJMLf.png" alt="Lost Boys Game" width="200">
     <img src="https://img.itch.zone/aW1hZ2UvMjg2NTk5Ni8xNzE1MjMyMy5wbmc=/347x500/V69%2FrS.png" alt="Lost Boys Game" width="200">
   </a>
-  <p>Check out my game <a href="https://tramposo.itch.io/lost-boys">Lost Boys on itch.io</a>!</p>
+  <p><a href="https://tramposo.itch.io/lost-boys">Lost Boys on itch.io</a></p>
 </div>
 
 <div align="center">
